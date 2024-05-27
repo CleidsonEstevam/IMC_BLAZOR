@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gHlFKUUkWrclNgaagWhTyBW9a71JZOcsJcE2AFIvEzw=",
+  "Hash": "anfGZ5vnDAJ9r2dKpEvTe0Lk+Y5mvYzKdzp+kDQMX6w=",
   "Source": "IMC",
   "BasePath": "/",
   "Mode": "Root",
@@ -3891,6 +3891,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\WWW\\IMC\\obj\\Debug\\net8.0\\webcil\\WindowsBase.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\WWW\\IMC\\Components\\Dialog.razor.js",
+      "SourceId": "IMC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\WWW\\IMC\\",
+      "BasePath": "/",
+      "RelativePath": "Components/Dialog.razor.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "Components\\Dialog.razor.js"
     },
     {
       "Identity": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\WWW\\IMC\\obj\\Debug\\net8.0\\compressed\\001mq2hsnq.gz",

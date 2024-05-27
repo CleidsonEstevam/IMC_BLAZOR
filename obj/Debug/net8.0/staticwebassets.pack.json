@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\WWW\\IMC\\Components\\Dialog.razor.js",
+      "PackagePath": "staticwebassets\\Components\\Dialog.razor.js"
+    },
+    {
       "Id": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\WWW\\IMC\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },

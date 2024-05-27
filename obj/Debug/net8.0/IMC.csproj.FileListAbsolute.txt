@@ -1032,3 +1032,6 @@ C:\Users\cleid\OneDrive\Área de Trabalho\WWW\IMC\obj\Debug\net8.0\IMC.pdb
 C:\Users\cleid\OneDrive\Área de Trabalho\WWW\IMC\obj\Debug\net8.0\ref\IMC.dll
 C:\Users\cleid\OneDrive\Área de Trabalho\WWW\IMC\obj\Debug\net8.0\scopedcss\Components\Slide.razor.rz.scp.css
 C:\Users\cleid\OneDrive\Área de Trabalho\WWW\IMC\obj\Debug\net8.0\scopedcss\projectbundle\IMC.bundle.scp.css
+C:\Users\cleid\OneDrive\Área de Trabalho\WWW\IMC\obj\Debug\net8.0\IMC.sourcelink.json
+C:\Users\cleid\OneDrive\Área de Trabalho\WWW\IMC\obj\Debug\net8.0\scopedcss\Components\Calculator.razor.rz.scp.css
+C:\Users\cleid\OneDrive\Área de Trabalho\WWW\IMC\obj\Debug\net8.0\scopedcss\Components\Dialog.razor.rz.scp.css
