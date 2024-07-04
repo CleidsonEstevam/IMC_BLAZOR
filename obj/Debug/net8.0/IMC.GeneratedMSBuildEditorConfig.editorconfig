@@ -26,6 +26,14 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/cleid/OneDrive/Área de Trabalho/WWW/IMC/Components/ImcDate.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbWNEYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cleid/OneDrive/Área de Trabalho/WWW/IMC/Components/ImcTitle.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbWNUaXRsZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/cleid/OneDrive/Área de Trabalho/WWW/IMC/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -38,6 +46,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/cleid/OneDrive/Área de Trabalho/WWW/IMC/Components/About.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBYm91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-pmb8q5jhuh
+
 [C:/Users/cleid/OneDrive/Área de Trabalho/WWW/IMC/Components/Calculator.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDYWxjdWxhdG9yLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-rd4ip4gkdd
@@ -45,6 +57,14 @@ build_metadata.AdditionalFiles.CssScope = b-rd4ip4gkdd
 [C:/Users/cleid/OneDrive/Área de Trabalho/WWW/IMC/Components/Dialog.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEaWFsb2cucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-rb5qb8hicj
+
+[C:/Users/cleid/OneDrive/Área de Trabalho/WWW/IMC/Components/History.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xIaXN0b3J5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-z368pkdcyj
+
+[C:/Users/cleid/OneDrive/Área de Trabalho/WWW/IMC/Components/ImcNumber.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbWNOdW1iZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-6bwc8rk0f6
 
 [C:/Users/cleid/OneDrive/Área de Trabalho/WWW/IMC/Components/Slide.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTbGlkZS5yYXpvcg==

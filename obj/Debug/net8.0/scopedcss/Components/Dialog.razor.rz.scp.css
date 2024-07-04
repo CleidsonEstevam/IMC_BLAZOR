@@ -1,4 +1,4 @@
-dialog[b-rb5qb8hicj] {
+﻿dialog[b-rb5qb8hicj] {
     border: none;
     background-color: transparent;
     width: 90%;
@@ -37,6 +37,10 @@ dialog[b-rb5qb8hicj] {
     position: relative;
     margin: auto;
     top: 50px;
+}
+
+.custom-margin[b-rb5qb8hicj] {
+    margin-left: 40%;
 }
 
 [b-rb5qb8hicj]::backdrop {

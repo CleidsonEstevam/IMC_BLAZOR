@@ -41,6 +41,14 @@
       "PackagePath": "staticwebassets\\icon-512.png"
     },
     {
+      "Id": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\WWW\\IMC\\wwwroot\\imgs\\imc.png",
+      "PackagePath": "staticwebassets\\imgs\\imc.png"
+    },
+    {
+      "Id": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\WWW\\IMC\\wwwroot\\imgs\\imgFormula.png",
+      "PackagePath": "staticwebassets\\imgs\\imgFormula.png"
+    },
+    {
       "Id": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\WWW\\IMC\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },

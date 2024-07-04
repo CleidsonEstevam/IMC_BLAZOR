@@ -1,0 +1,43 @@
+/* Listas */
+.list-unstyled[b-z368pkdcyj] {
+    list-style: none;
+}
+
+.list-item[b-z368pkdcyj] {
+    width: 100%;
+    padding-top: 16px;
+    display: flex;
+    flex-direction: row;
+}
+
+.list-item-image[b-z368pkdcyj] {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.list-item-image img[b-z368pkdcyj] {
+    width: 50px;
+    height: 50px;
+    border-radius: 8px;
+}
+
+.list-item-description[b-z368pkdcyj] {
+    text-align: left;
+}
+
+.list-item-description-title[b-z368pkdcyj] {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 16px 0 16px;
+}
+
+.list-item-description-title h4[b-z368pkdcyj] {
+    margin: 0;
+}
+
+.list-item-description-text[b-z368pkdcyj] {
+    padding: 0 16px 16px 16px;
+    border-bottom: 1px solid #E8E8E8;
+}

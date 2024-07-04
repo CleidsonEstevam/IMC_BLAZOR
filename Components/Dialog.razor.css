@@ -1,4 +1,4 @@
-﻿dialog {
+﻿﻿dialog {
     border: none;
     background-color: transparent;
     width: 90%;
@@ -37,6 +37,10 @@
     position: relative;
     margin: auto;
     top: 50px;
+}
+
+.custom-margin {
+    margin-left: 40%;
 }
 
 ::backdrop {

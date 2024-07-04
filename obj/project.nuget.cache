@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "EUq0RCv1pgu0ZB698QH44uSkDk0jq9TfUoy2z7dORg69Nbw+fTtocPOKhfldlfk1dz6SbUOYML+C2gwOo3fHOw==",
+  "dgSpecHash": "aMIEMlDQYq0Y56WX2QBSRkcCErrbFfKSfmzQpLNOzrv6mPwVFG4tULXNElnJiEa5JIfqobmBrGxz4pq8N9FU0g==",
   "success": true,
   "projectFilePath": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\WWW\\IMC\\IMC.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\cleid\\.nuget\\packages\\blazored.localstorage\\4.5.0\\blazored.localstorage.4.5.0.nupkg.sha512",
     "C:\\Users\\cleid\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.0\\microsoft.aspnetcore.authorization.8.0.0.nupkg.sha512",
     "C:\\Users\\cleid\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.0\\microsoft.aspnetcore.components.8.0.0.nupkg.sha512",
     "C:\\Users\\cleid\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.0\\microsoft.aspnetcore.components.analyzers.8.0.0.nupkg.sha512",

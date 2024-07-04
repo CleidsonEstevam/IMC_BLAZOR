@@ -1035,3 +1035,11 @@ C:\Users\cleid\OneDrive\Área de Trabalho\WWW\IMC\obj\Debug\net8.0\scopedcss\pro
 C:\Users\cleid\OneDrive\Área de Trabalho\WWW\IMC\obj\Debug\net8.0\IMC.sourcelink.json
 C:\Users\cleid\OneDrive\Área de Trabalho\WWW\IMC\obj\Debug\net8.0\scopedcss\Components\Calculator.razor.rz.scp.css
 C:\Users\cleid\OneDrive\Área de Trabalho\WWW\IMC\obj\Debug\net8.0\scopedcss\Components\Dialog.razor.rz.scp.css
+C:\Users\cleid\OneDrive\Área de Trabalho\WWW\IMC\bin\Debug\net8.0\wwwroot\_framework\Blazored.LocalStorage.wasm
+C:\Users\cleid\OneDrive\Área de Trabalho\WWW\IMC\bin\Debug\net8.0\wwwroot\_framework\Blazored.LocalStorage.wasm.gz
+C:\Users\cleid\OneDrive\Área de Trabalho\WWW\IMC\bin\Debug\net8.0\Blazored.LocalStorage.dll
+C:\Users\cleid\OneDrive\Área de Trabalho\WWW\IMC\obj\Debug\net8.0\webcil\Blazored.LocalStorage.wasm
+C:\Users\cleid\OneDrive\Área de Trabalho\WWW\IMC\obj\Debug\net8.0\compressed\7l6ov1b3c0.gz
+C:\Users\cleid\OneDrive\Área de Trabalho\WWW\IMC\obj\Debug\net8.0\scopedcss\Components\History.razor.rz.scp.css
+C:\Users\cleid\OneDrive\Área de Trabalho\WWW\IMC\obj\Debug\net8.0\scopedcss\Components\ImcNumber.razor.rz.scp.css
+C:\Users\cleid\OneDrive\Área de Trabalho\WWW\IMC\obj\Debug\net8.0\scopedcss\Components\About.razor.rz.scp.css
